@@ -1,0 +1,48 @@
+daixipsd.png
+	size: 1547, 1146
+	filter: Linear, Linear
+	pma: true
+#1
+	bounds: 2, 356, 788, 788
+#10
+	bounds: 1482, 52, 337, 51
+	rotate: 90
+#11
+	bounds: 1336, 23, 366, 144
+	rotate: 90
+#12
+	bounds: 792, 349, 540, 40
+	offsets: 0, 0, 541, 45
+#13
+	bounds: 1482, 2, 48, 59
+	offsets: 0, 1, 49, 60
+	rotate: 90
+#14
+	bounds: 1261, 136, 66, 41
+	offsets: 0, 1, 66, 42
+#15
+	bounds: 1118, 134, 141, 43
+#16
+	bounds: 594, 10, 349, 89
+	offsets: 1, 1, 352, 91
+#2
+	bounds: 792, 391, 753, 753
+#3
+	bounds: 724, 101, 374, 43
+#4
+	bounds: 1118, 179, 216, 168
+	offsets: 0, 0, 216, 169
+#5
+	bounds: 441, 115, 281, 239
+#6
+	bounds: 441, 10, 103, 151
+	offsets: 0, 0, 103, 161
+	rotate: 90
+#7
+	bounds: 945, 12, 87, 147
+	offsets: 3, 0, 96, 151
+	rotate: 90
+#8
+	bounds: 724, 146, 392, 201
+#9
+	bounds: 2, 19, 437, 335
